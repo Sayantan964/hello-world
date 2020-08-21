@@ -1,7 +1,7 @@
 # hello-world
 github demo
 
-Sandy 
+sandy 
 New branch created.
 
 Hi my name is Sayantan Das.
